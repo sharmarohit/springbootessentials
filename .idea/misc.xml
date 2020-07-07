@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/room-clr-app/pom.xml" />
         <option value="$PROJECT_DIR$/room-web-app/pom.xml" />
+        <option value="$PROJECT_DIR$/room-cleaner-consumer/pom.xml" />
       </list>
     </option>
   </component>
